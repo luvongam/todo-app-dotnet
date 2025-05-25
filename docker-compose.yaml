@@ -1,0 +1,26 @@
+version: '3.8' # Specify the Docker Compose file format version
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest # Use the latest SQL Server 2022 Linux image
+    container_name: sqlserver_dev # A friendly name for your container
+    ports:
+      - "1433:1433" # Map host port 1433 to container port 1433 (default SQL Server port)
+    environment:
+      SA_PASSWORD: "pasword" # !! IMPORTANT: Change this to a strong password for production !!
+      ACCEPT_EULA: "Y" # Accept the End-User License Agreement
+      MSSQL_PID: "Developer" # Use the Developer Edition (free for development)
+    volumes:
+      # Optional: Persist data outside the container
+      # This ensures your data isn't lost if the container is removed
+      - sqlserver_data:/var/opt/mssql # Mount a named volume for data persistence
+    restart: always # Always restart the container if it stops
+    healthcheck:
+      test: ["CMD", "/opt/mssql-tools/bin/sqlcmd", "-S", "localhost", "-U", "SA", "-P", "password", "-Q", "SELECT 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  sqlserver_data: # Define the named volume
+    driver: local
