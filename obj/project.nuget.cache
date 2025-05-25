@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xSeyEp/q5Jw=",
   "success": true,
   "projectFilePath": "/home/jamlech/dotnet-projects/intro/loan-app/loan-app.csproj",
@@ -7,6 +8,13 @@
     "/home/jamlech/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.5/microsoft.aspnetcore.authentication.jwtbearer.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.1.0/microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+=======
+  "dgSpecHash": "dIoDU+QM7iA=",
+  "success": true,
+  "projectFilePath": "/home/jamlech/dotnet-projects/intro/todo-app/todo-app.csproj",
+  "expectedPackageFiles": [
+    "/home/jamlech/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+>>>>>>> 0ddf4c62bb3284007528c573ed763607d9f3dbb8
     "/home/jamlech/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.build.framework/17.8.3/microsoft.build.framework.17.8.3.nupkg.sha512",
@@ -30,6 +38,7 @@
     "/home/jamlech/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.5/microsoft.extensions.caching.abstractions.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.caching.memory/9.0.5/microsoft.extensions.caching.memory.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.5/microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+<<<<<<< HEAD
     "/home/jamlech/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0/microsoft.extensions.configuration.binder.9.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.5/microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
@@ -37,10 +46,16 @@
     "/home/jamlech/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.0/microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0/microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.hosting.abstractions/9.0.0/microsoft.extensions.hosting.abstractions.9.0.0.nupkg.sha512",
+=======
+    "/home/jamlech/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.5/microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "/home/jamlech/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "/home/jamlech/.nuget/packages/microsoft.extensions.dependencymodel/9.0.5/microsoft.extensions.dependencymodel.9.0.5.nupkg.sha512",
+>>>>>>> 0ddf4c62bb3284007528c573ed763607d9f3dbb8
     "/home/jamlech/.nuget/packages/microsoft.extensions.logging/9.0.5/microsoft.extensions.logging.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.5/microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.options/9.0.5/microsoft.extensions.options.9.0.5.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.extensions.primitives/9.0.5/microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+<<<<<<< HEAD
     "/home/jamlech/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
     "/home/jamlech/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
@@ -58,6 +73,10 @@
     "/home/jamlech/.nuget/packages/serilog.sinks.console/6.0.0/serilog.sinks.console.6.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/serilog.sinks.debug/3.0.0/serilog.sinks.debug.3.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/serilog.sinks.file/6.0.0/serilog.sinks.file.6.0.0.nupkg.sha512",
+=======
+    "/home/jamlech/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/home/jamlech/.nuget/packages/mono.texttemplating/3.0.0/mono.texttemplating.3.0.0.nupkg.sha512",
+>>>>>>> 0ddf4c62bb3284007528c573ed763607d9f3dbb8
     "/home/jamlech/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "/home/jamlech/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
     "/home/jamlech/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
@@ -74,7 +93,10 @@
     "/home/jamlech/.nuget/packages/system.composition.hosting/7.0.0/system.composition.hosting.7.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/system.composition.runtime/7.0.0/system.composition.runtime.7.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/system.composition.typedparts/7.0.0/system.composition.typedparts.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
     "/home/jamlech/.nuget/packages/system.identitymodel.tokens.jwt/8.0.1/system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
+=======
+>>>>>>> 0ddf4c62bb3284007528c573ed763607d9f3dbb8
     "/home/jamlech/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/home/jamlech/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/home/jamlech/.nuget/packages/system.reflection.metadata/7.0.0/system.reflection.metadata.7.0.0.nupkg.sha512",

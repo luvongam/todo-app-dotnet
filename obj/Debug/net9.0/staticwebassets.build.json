@@ -1,8 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "QGrhem/bxNNSX8kied7QVnZQJeCnWNBeGOr892xQZjQ=",
   "Source": "loan-app",
   "BasePath": "_content/loan-app",
+=======
+  "Hash": "G6clOCWmsICw6XDVV+yX4m+MZW37/8FACGDoeSdiJZM=",
+  "Source": "todo-app",
+  "BasePath": "_content/todo-app",
+>>>>>>> 0ddf4c62bb3284007528c573ed763607d9f3dbb8
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
